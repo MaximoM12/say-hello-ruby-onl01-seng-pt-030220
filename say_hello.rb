@@ -1,7 +1,7 @@
 # Build your say_hello method here
 
-class say_hello
+class Say_hello
   
 def say_hello("Gabriela")
-  puts "Hello #{"Gabriela"}."
+  puts "Hello #{Gabriela}."
 end
