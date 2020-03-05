@@ -2,8 +2,8 @@
 
 
   
-def say_hello(name = "Ruby programerd")
+def say_hello(name = "Ruby Programmer")
   if name
-   puts "Hello #{name} !"
+   puts "Hello #{name}!"
   end 
 end 
