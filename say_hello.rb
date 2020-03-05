@@ -4,7 +4,7 @@ class Say_hello
   
 def say_hello(name = nil)
  if name  
-   puts "Hello #{name} welcom to Ruby."
+   puts "Hello #{name} welcom to Ruby!"
  else 
    puts "Hello Ruby programer!"
 end
