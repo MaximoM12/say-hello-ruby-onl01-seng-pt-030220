@@ -2,6 +2,6 @@
 
 class Say_hello
   
-def say_hello(name = "Gabriela")
+def say_hello(name = nil)
   puts "Hello #{Gabriela}."
 end
