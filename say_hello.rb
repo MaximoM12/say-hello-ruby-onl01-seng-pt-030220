@@ -8,5 +8,3 @@ def say_hello(name = nil)
  else 
    puts "Hello Ruby programer!"
 end
-
-end
