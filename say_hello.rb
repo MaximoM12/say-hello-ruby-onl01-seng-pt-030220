@@ -2,7 +2,7 @@
 
 
   
- def say_hello ( "Gabriela" )
+ def say_hello ( name = nil )
   if name
    puts "Hello #{name} welcome to Ruby!"
   else 
